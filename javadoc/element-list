@@ -1,0 +1,9 @@
+symbolib
+symbolib.builder
+symbolib.expression
+symbolib.expression.arithmetic
+symbolib.expression.functional
+symbolib.expression.rational
+symbolib.loader
+symbolib.util
+symbolib.visitor
